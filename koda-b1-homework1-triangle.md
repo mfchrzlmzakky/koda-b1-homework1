@@ -1,7 +1,7 @@
 ```mermaid
 flowchart TB
 start((Start))
-input1[/Tinggi Segitiga/]
+input1[/height/]
 input2[/i = 1/]
 check1{i <= height}
 proses1[i++]
